@@ -1,2 +1,3 @@
 Newline
-Newline
+Hello Testing some changes from GUI
+Hello Testing some changes from GUI
